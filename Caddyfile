@@ -1,0 +1,6 @@
+
+timetable.ga {
+        root * /usr/share/caddy
+
+        file_server
+}
